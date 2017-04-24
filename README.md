@@ -2,6 +2,8 @@
 
 Android project to experiment the [VIPER approach](https://www.objc.io/issues/13-architecture/viper/).
 
+[![Dependency Status](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc)
+
 ## Motivations
 
 - Tend toward the [VIPER approach](https://www.objc.io/issues/13-architecture/viper/)
