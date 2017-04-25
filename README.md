@@ -28,3 +28,4 @@ Android project to experiment the [VIPER approach](https://www.objc.io/issues/13
         - a combination of [ProviGen](https://github.com/TimotheeJeannin/ProviGen) and [AutoCursor](https://github.com/yongjhih/AutoCursor) could be relevant
     - use of an [ORM](https://android-arsenal.com/tag/69)
         - [requery](https://github.com/requery/requery), [DBFlow](https://github.com/Raizlabs/DBFlow) or [OrmLite](https://github.com/j256/ormlite-android) for example
+- use of [EasyFlow](https://github.com/Beh01der/EasyFlow) to manage screen's states (cf. [AndroidModularSample](https://roroche.github.io/AndroidModularSample/))
