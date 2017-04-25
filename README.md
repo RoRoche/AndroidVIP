@@ -4,6 +4,17 @@ Android project to experiment the [VIPER approach](https://www.objc.io/issues/13
 
 [![Dependency Status](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc)
 
+<!-- run the following command line: markdown-toc -i README.md -->
+
+<!-- toc -->
+
+- [Motivations](#motivations)
+- [Technical base](#technical-base)
+- [Perspectives](#perspectives)
+- [Logo credits](#logo-credits)
+
+<!-- tocstop -->
+
 ## Motivations
 
 - Tend toward the [VIPER approach](https://www.objc.io/issues/13-architecture/viper/)
@@ -29,3 +40,7 @@ Android project to experiment the [VIPER approach](https://www.objc.io/issues/13
     - use of an [ORM](https://android-arsenal.com/tag/69)
         - [requery](https://github.com/requery/requery), [DBFlow](https://github.com/Raizlabs/DBFlow) or [OrmLite](https://github.com/j256/ormlite-android) for example
 - use of [EasyFlow](https://github.com/Beh01der/EasyFlow) to manage screen's states (cf. [AndroidModularSample](https://roroche.github.io/AndroidModularSample/))
+
+## Logo credits
+
+Animals graphic by <a href="http://www.flaticon.com/authors/freepik">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
