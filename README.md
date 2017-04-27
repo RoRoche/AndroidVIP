@@ -44,6 +44,12 @@ Android project to experiment the [VIPER approach](https://www.objc.io/issues/13
         - [requery](https://github.com/requery/requery), [DBFlow](https://github.com/Raizlabs/DBFlow) or [OrmLite](https://github.com/j256/ormlite-android) for example
 - use of [EasyFlow](https://github.com/Beh01der/EasyFlow) to manage screen's states (cf. [AndroidModularSample](https://roroche.github.io/AndroidModularSample/))
 
+## Bibliography
+
+- <http://hannesdorfmann.com/mosby/>
+- <https://www.objc.io/issues/13-architecture/viper/>
+- <https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56>
+
 ## Logo credits
 
 Animals graphic by <a href="http://www.flaticon.com/authors/freepik">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
