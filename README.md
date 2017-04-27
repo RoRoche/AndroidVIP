@@ -2,6 +2,7 @@
 
 Android project to experiment the [VIPER approach](https://www.objc.io/issues/13-architecture/viper/).
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidVIP-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/5656)
 [![Dependency Status](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fe705d6ac171431cf950fc)
 
 ![logo](https://raw.githubusercontent.com/RoRoche/AndroidVIP/master/assets/logo.png)
